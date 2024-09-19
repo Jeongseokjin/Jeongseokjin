@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
  
   <br>
-    <a href="https://github.com/LouiIII3/Springboot" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+  <a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <a target="_blank"><img&logoColor=white"/></a>&nbsp
   <a target="_blank"><img src="https://img.shields.io/badge/MYSQL-483D8B?style=flat-square&logo=MYSQL&logoColor=white"/></a>&nbsp 
   <br>
@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">:book: Follow Me :book:</h3>
 <p align="center">
-<a href="https://loui3.tistory.com/" target="_blank" ><img src="https://img.shields.io/badge/BLOG-3DDC84?style= for-the-badge&logo=aseprite&logoColor=FDFF57"/></a><br><br>
+<a target="_blank" ><img src="https://img.shields.io/badge/BLOG-3DDC84?style= for-the-badge&logo=aseprite&logoColor=FDFF57"/></a><br><br>
 
 <hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeongseokjin&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongseokjin&hide_progress=true" alt="Top Languages" />
   </a>
 </div>
