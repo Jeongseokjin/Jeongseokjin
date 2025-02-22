@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌙 SleeplessCat's Cozy Corner 😺
+# 🌙 SleeplessCat's Github 😺
 
-### ⭐ Crafting Dreams in Code ⭐
+### ⭐ A Debugging Seokjin Has Appeared and Can’t Fall Asleep Tonight ⭐
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongseokjin&count_bg=%23B199CD&title_bg=%23B199CD&icon=&icon_color=%23E7E7E7&title=Nighttime%20Friends&edge_flat=true)](https://hits.seeyoufarm.com)
 
