@@ -1,26 +1,35 @@
-name: Generate Snake
+name: Generate Snake Animation
 on:
+  # 매 24시간마다 자동 실행
   schedule:
-    - cron: "0 */6 * * *"  # 매 6시간마다 실행
-  workflow_dispatch:        # 수동 실행 가능
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
+    - cron: "0 */24 * * *"
+  
+  # 수동 실행 가능
+  workflow_dispatch:
+  
+  # main 브랜치에 push할 때마다 실행
+  push:
+    branches:
+    - main
     
-    permissions: 
-      contents: write
-      
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@master
-        id: snake-gif
+      # snake 애니메이션 생성
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Jeongseokjin
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v2.5.0
+      # output 브랜치에 푸시
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
