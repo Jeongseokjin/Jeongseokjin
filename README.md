@@ -4,7 +4,7 @@
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongseokjin&count_bg=%234CAF50&title_bg=%232E7D32&icon=&icon_color=%23E7E7E7&title=Nighttime%20Friends&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
