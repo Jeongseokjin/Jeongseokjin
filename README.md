@@ -1,74 +1,61 @@
-<div align="center">
+<h3 align="center">끊임없는 성장을 통해 조직에 실질적인 가치를 더하는 백엔드 개발자 정석진입니다.</h3>
+<p align="center">
+ 📧 sj_jeong384@naver.com | 
+ 🔗 <a href="https://github.com/Jeongseokjin">GitHub</a> | 
+ 📝 <a href="https://1223tjrwls.tistory.com">Blog</a>
+</p>
 
-# 🌱 Sleepless Cat Github 🌱
-
-
-
-
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
-### 👨‍💻 Languages & Frameworks
-<div align="center">
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<br>
-<!-- Frameworks -->
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-</div>
-
-### 🛠 Infrastructure & Tools
-<div align="center">
-<!-- Infrastructure -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/>
-<br>
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-</div>
-
-<br><br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jeongseokjin&show_icons=true&hide_border=true&bg_color=E8F5E9&title_color=2E7D32&icon_color=4CAF50&text_color=1B5E20&cache_seconds=1800" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongseokjin&layout=compact&hide_border=true&bg_color=E8F5E9&title_color=2E7D32&text_color=1B5E20&cache_seconds=1800" width="300"/>
-</div>
-<br>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jeongseokjin&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Jeongseokjin"
-  width="1000"
-  height="300"
-/>
-</a>
+<p align="center">
+Java/Spring 백엔드 개발자로서, 기술로 문제를 해결하며 조직의 성공을 이끄는 데 집중합니다.<br>
+시스템 효율성을 극대화하고 혁신적인 솔루션으로 시간과 비용을 절감하는 개발자가 목표입니다.
+</p>
 
 <br>
 
-<div align="center">
-<img src="https://github.com/Jeongseokjin/Jeongseokjin/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-<br/>
-</div>
+## 📌 Track
+- 2025.03. ~ 현재 :: IT MOO U - 백엔드 개발자 (물류 최적화 개발)
+- 2024.07. ~ 2024.12. :: 우리 FISA 3기 - AWS 기반 클라우드 서비스 개발
+- 2020.10. ~ 2024.04. :: (주)대원프리시전 - 설비 기술 주임 (3년 6개월)
+- 2020.03. ~ 2020.09. :: (주)이한산업 - 설비 개발 사원 (7개월)
+- 2015.03. ~ 2021.02. :: 청주대학교 컴퓨터정보공학과
+<br>
+
+## 📌 Skill
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br>
+
+## 📌 Project
+
+- <h4>IT MOO U - 물류 최적화 시스템 🚛</h4>
+
+ - 2025.03. ~ 현재
+ - 팔레트 물류 최적화를 위한 MVP를 설계 및 개발하며 초기 서비스 검증 주도
+ - Kafka 기반 이벤트 드리븐 아키텍쳐(EDA)를 설계해 시스템 간 비동기 통신 최적화
+
+- <h4>WOORI ZIP 🏡</h4>
+
+ - 2024.10. ~ 2024.12. 🔗 [Git URL](https://github.com/Jeongseokjin/woori-zip)
+ - ML 모델 활용한 청년 맞춤형 부동산 금융 플랫폼
+ - OAuth 2.0과 JWT 기반 우리은행 계정 연동 및 인증 시스템 구축
+
+- <h4>설비 자동화 시스템 ⚙️</h4>
+
+ - 2020.03. ~ 2024.04.
+ - SCADA 시스템 도입으로 설비 데이터 실시간 수집 및 시각화
+ - PLC 연동 자동 장력 조절 시스템 개발로 불량률 감소
+
+<br>
