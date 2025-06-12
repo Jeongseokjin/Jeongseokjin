@@ -47,7 +47,7 @@ Java/Spring 백엔드 개발자로서, 기술로 문제를 해결하며 조직�
 
 - <h4>WOORI ZIP 🏡</h4>
 
- - 2024.10. ~ 2024.12. 🔗 [Git URL](https://github.com/Jeongseokjin/woori-zip)
+ - 2024.10. ~ 2024.12. 🔗 [Git URL](https://github.com/Jeongseokjin/woori-zip-BE)
  - ML 모델 활용한 청년 맞춤형 부동산 금융 플랫폼
  - OAuth 2.0과 JWT 기반 우리은행 계정 연동 및 인증 시스템 구축
 
