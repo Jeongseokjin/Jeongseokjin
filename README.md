@@ -1,7 +1,6 @@
 <h3 align="center">끊임없는 성장을 통해 조직에 실질적인 가치를 더하는 백엔드 개발자 정석진입니다.</h3>
 <p align="center">
  📧 sj_jeong384@naver.com | 
- 🔗 <a href="https://github.com/Jeongseokjin">GitHub</a> | 
  📝 <a href="https://1223tjrwls.tistory.com">Blog</a>
 </p>
 
